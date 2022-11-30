@@ -1,0 +1,20 @@
+/*
+css Style sheet for test page
+@authot mkaiser
+*/
+
+div {
+    padding: 20px;
+    font-family: Arial;
+}
+
+head {
+    background-color: lightgrey;
+    font-family: Arial;
+}
+
+body {
+    background-color: lightgray;
+    font-family: Arial;
+}
+
